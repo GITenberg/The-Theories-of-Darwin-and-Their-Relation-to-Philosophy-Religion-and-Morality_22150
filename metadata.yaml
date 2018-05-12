@@ -1,0 +1,40 @@
+_repo: The-Theories-of-Darwin-and-Their-Relation-to-Philosophy-Religion-and-Morality_22150
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Zimmermann, G. A. (Gustav Adolf)
+    alias: Zimmermann, Gustav Adolf
+    birthdate: 1850
+    deathdate: 1903
+    gutenberg_agent_id: '25142'
+    url: http://www.gutenberg.org/2009/agents/25142
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schmid, Rudolf
+    birthdate: 1828
+    deathdate: 1907
+    gutenberg_agent_id: '25141'
+    url: http://www.gutenberg.org/2009/agents/25141
+description: The boundaries between theology and science are explored in this ambitious
+  1883 work. The author demanded "perfect freedom" for scientific inquiry, yet adhered
+  to "the truths of Christianity in their full extent." Well-versed in both religion
+  and Darwin's theories, the author handles his task with logic, fairness, and an
+  engaging generosity of spirit.
+gutenberg_issued: '2007-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22150'
+  lccn: 06012888
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Evolution'
+- !lcc 'QH'
+- !lcsh 'Religion and science'
+title: The Theories of Darwin and Their Relation to Philosophy, Religion, and Morality
+url: http://www.gutenberg.org/ebooks/22150
